@@ -1,0 +1,1 @@
+<script>window.top.location.href = "/manager/login/login.php?redirectCode=7436325233242&p=%2Fmanager%2Fwizard.php%3Fw%3D4351621";</script>
